@@ -274,6 +274,8 @@ cp -f ../PATCH/odhcpd/0001-odhcpd-improve-RFC-9096-compliance.patch ./package/ne
 # 京东签到 By Jerrykuku
 #git clone --depth 1 https://github.com/jerrykuku/node-request.git package/new/node-request
 #git clone --depth 1 https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/new/luci-app-jd-dailybonus
+# Lucky
+git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
 # MentoHUST
 git clone --depth 1 https://github.com/BoringCat/luci-app-mentohust package/new/luci-app-mentohust
 git clone --depth 1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk package/new/MentoHUST
